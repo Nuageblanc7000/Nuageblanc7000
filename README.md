@@ -45,9 +45,9 @@ En dehors du travail, j'aime m'investir dans des projets personnels qui me perme
 
 ## Projets notables
 
-- #673AB7 [TOLINK] - une application Symfony qui permet aux utilisateurs et aux restaurateurs de [trouver ou publier un restaurant](https://tolink.frinki-ad.com/).
-- #673AB7 [FrinkiShop] - une application Symfony pour [le secteur d'activité de l'immobilier](https://frinki-ad.com/).
-- #673AB7 [AUTHAPI] - une application NODEJS -EXPRESS pour un système d'authentification maison + gestion des rôles [AUTHENTIFICATION].
+-  [TOLINK] - une application Symfony qui permet aux utilisateurs et aux restaurateurs de [trouver ou publier un restaurant](https://tolink.frinki-ad.com/).
+- [FrinkiShop] - une application Symfony pour [la vente de deuxième main de vêtement](https://frinki-ad.com/).
+-  [AUTHAPI] - une application NODEJS -EXPRESS pour un système d'authentification maison + gestion des rôles [AUTHENTIFICATION].
 
 ## Contact
 
