@@ -15,7 +15,7 @@ L'humour est pour moi un élément important dans la vie, j'aime donc travailler
 
 En dehors du travail, j'aime m'investir dans des projets personnels qui me permettent de développer mes compétences et de découvrir de nouvelles passions.
 
-## 🛠️ Compétences techniques
+## 🛠️ -- Compétences techniques
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +34,7 @@ En dehors du travail, j'aime m'investir dans des projets personnels qui me perme
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## : 🤝 Soft skills
+## : 🤝 -- Soft skills
 
 [![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)]()
 [![Collaboration](https://img.shields.io/badge/Collaboration-green?style=for-the-badge&logo=Slack&logoColor=white)]()
@@ -43,13 +43,13 @@ En dehors du travail, j'aime m'investir dans des projets personnels qui me perme
 [![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge&logo=microsoft&logoColor=white)]()
 
 
-## 🚀 Projets notables
+## 🚀 -- Projets notables
 
 -  [TOLINK] - une application Symfony qui permet aux utilisateurs et aux restaurateurs de [trouver ou publier un restaurant](https://tolink.frinki-ad.com/).
 - [FrinkiShop] - une application Symfony pour [la vente de deuxième main de vêtement](https://frinki-ad.com/).
 -  [AUTHAPI] - une application NODEJS -EXPRESS pour un système d'authentification maison + gestion des rôles [AUTHENTIFICATION].
 
-## 📧 ontact
+## 📧 -- Contact
 
 Si vous souhaitez me contacter, vous pouvez le faire en utilisant l'un des moyens suivants :
 
