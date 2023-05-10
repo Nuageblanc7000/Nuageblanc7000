@@ -1,11 +1,19 @@
+# //// OPEN TO WORK  WEB DEV | FORMATEUR   ////
+
+
 # [Wetterene-Rémy]
 
 ## À propos de moi
 
-Je suis un développeur web junior passionné par le développement d'applications web. Je suis spécialisé dans les technologies suivantes : Node.js, React, PHP et Angular. J'ai travaillé sur différents projets personnels et j'ai acquis une expérience solide dans la création de sites web de qualité grâce à mes deux années de brevet de développeur web ainsi que mes sept mois passés à TechnofuturTic Gosselies pour apprendre Node.js et Angular.
+- #606060 Diplômé d'un brevet de web Développeur à **l'EPSE d'enghien**
+- #606060 Développeur junior full stack 
+- #FF4081 Passionné de technologie, de nature et jeu vidéo
 
-Je suis actuellement à la recherche d'un stage de 6 semaines ou, encore mieux, d'un emploi ! Vous cherchez une personne motivée et prête à évoluer dans votre société ? Alors contactez-moi.
+Ma plus grande passion est de partager mes connaissances avec ceux qui le désirent, car c'est ce qui fait la beauté du code : le partage et la découverte que l'on peut tirer les uns des autres. Dans mon travail, je suis également très rigoureux car j'apprécie la satisfaction de réaliser un travail bien fait.
 
+L'humour est pour moi un élément important dans la vie, j'aime donc travailler dans une ambiance conviviale et détendue.
+
+En dehors du travail, j'aime m'investir dans des projets personnels qui me permettent de développer mes compétences et de découvrir de nouvelles passions.
 
 ## Compétences techniques
 
@@ -30,9 +38,9 @@ Je suis actuellement à la recherche d'un stage de 6 semaines ou, encore mieux, 
 
 ## Projets notables
 
-- [TOLINK] - une application Symfony qui permet aux utilisateurs et aux restaurateurs de [trouver ou publier un restaurant](https://tolink.frinki-ad.com/).
-- [FrinkiShop] - une application Symfony pour [le secteur d'activité de l'immobilier](https://frinki-ad.com/).
-- [AUTHAPI] - une application NODEJS -EXPRESS pour un système d'authentification maison + gestion des rôles [AUTHENTIFICATION].
+- #673AB7 [TOLINK] - une application Symfony qui permet aux utilisateurs et aux restaurateurs de [trouver ou publier un restaurant](https://tolink.frinki-ad.com/).
+- #673AB7 [FrinkiShop] - une application Symfony pour [le secteur d'activité de l'immobilier](https://frinki-ad.com/).
+- #673AB7 [AUTHAPI] - une application NODEJS -EXPRESS pour un système d'authentification maison + gestion des rôles [AUTHENTIFICATION].
 
 ## Contact
 
