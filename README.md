@@ -5,17 +5,17 @@
 
 ## À propos de moi
 
-- #606060 Diplômé d'un brevet de web Développeur à **l'EPSE d'enghien**
-- #606060 Développeur junior full stack 
-- #FF4081 Passionné de technologie, de nature et jeu vidéo
+- 🎓 Diplômé d'un brevet de web Développeur à **l'EPSE d'enghien**
+- 👨‍💻 Développeur junior full stack 
+- ❤️ Passionné de technologie, de nature et jeu vidéo ❤️
 
-Ma plus grande passion est de partager mes connaissances avec ceux qui le désirent, car c'est ce qui fait la beauté du code : le partage et la découverte que l'on peut tirer les uns des autres. Dans mon travail, je suis également très rigoureux car j'apprécie la satisfaction de réaliser un travail bien fait.
+❤️❤️ **Ma plus grande passion est de partager mes connaissances avec ceux qui le désirent, car c'est ce qui fait la beauté du code : le partage et la découverte que l'on peut tirer les uns des autres. Dans mon travail, je suis également très rigoureux car j'apprécie la satisfaction de réaliser un travail bien fait.** ❤️❤️
 
 L'humour est pour moi un élément important dans la vie, j'aime donc travailler dans une ambiance conviviale et détendue.
 
 En dehors du travail, j'aime m'investir dans des projets personnels qui me permettent de développer mes compétences et de découvrir de nouvelles passions.
 
-## Compétences techniques
+## 🛠️ ompétences techniques
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -34,7 +34,8 @@ En dehors du travail, j'aime m'investir dans des projets personnels qui me perme
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-## Soft skills
+
+## : 🤝 oft skills
 
 [![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-badge&logo=Microsoft-Teams&logoColor=white)]()
 [![Collaboration](https://img.shields.io/badge/Collaboration-green?style=for-the-badge&logo=Slack&logoColor=white)]()
@@ -43,13 +44,13 @@ En dehors du travail, j'aime m'investir dans des projets personnels qui me perme
 [![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge&logo=microsoft&logoColor=white)]()
 
 
-## Projets notables
+## 🚀 rojets notables
 
 -  [TOLINK] - une application Symfony qui permet aux utilisateurs et aux restaurateurs de [trouver ou publier un restaurant](https://tolink.frinki-ad.com/).
 - [FrinkiShop] - une application Symfony pour [la vente de deuxième main de vêtement](https://frinki-ad.com/).
 -  [AUTHAPI] - une application NODEJS -EXPRESS pour un système d'authentification maison + gestion des rôles [AUTHENTIFICATION].
 
-## Contact
+## 📧 ontact
 
 Si vous souhaitez me contacter, vous pouvez le faire en utilisant l'un des moyens suivants :
 
