@@ -1,4 +1,4 @@
-# ////  💼 OPEN TO WORK  ////
+# ////  💼 OPEN TO WORK DEV JUNIOR ////
 
 
 # [Wetterene-Rémy]
