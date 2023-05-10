@@ -1,4 +1,4 @@
-# //// OPEN TO WORK  WEB DEV | FORMATEUR   ////
+# //// OPEN TO WORK  ////
 
 
 # [Wetterene-Rémy]
